@@ -1,0 +1,42 @@
+C:\Users\ALEX\source\repos\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe.config
+C:\Users\ALEX\source\repos\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe
+C:\Users\ALEX\source\repos\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.pdb
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.AssemblyReference.cache
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Acercade.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Generador.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Menu.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema1.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema2.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema3.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Properties.Resources.resources
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.GenerateResource.cache
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.exe
+C:\Users\ALEX\source\repos\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.pdb
+C:\Users\ACER\Desktop\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe.config
+C:\Users\ACER\Desktop\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe
+C:\Users\ACER\Desktop\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.pdb
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Acercade.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Generador.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Menu.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema1.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema2.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema3.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Properties.Resources.resources
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.exe
+C:\Users\ACER\Desktop\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.pdb
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe.config
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.exe
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\bin\Debug\ProyectoSimulacion.pdb
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.AssemblyReference.cache
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Acercade.resources
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Menu.resources
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Problema2.resources
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.Properties.Resources.resources
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.GenerateResource.cache
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.exe
+C:\Users\emper\OneDrive\Documentos\New folder\ProyectoSimulacion\obj\Debug\ProyectoSimulacion.pdb
